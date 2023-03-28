@@ -111,11 +111,10 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png">Deploy</a>
+        <a href="portfolio-oleydi.vercel.app">Deploy</a>
         -
-        <a href="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png">Info</a>
         -
-        <a href="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png">Repo</a>
+        <a href="https://github.com/oleydi1234/Portfolio">Repo</a>
       </td>
     </tr>
   </table>
