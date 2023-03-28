@@ -104,14 +104,14 @@
     </tr>
     <tr>
       <td>
-        <a href="portfolio-oleydi.vercel.app">
+        <a href="[https://portfolio-oleydi.vercel.app](https://portfolio-oleydi.vercel.app)">
           <img src="https://portfolio-oleydi.vercel.app/portfolio.png" width="500">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://portfolio-oleydi.vercel.app">Deploy</a>
+        <a href="[https://portfolio-oleydi.vercel.app](https://portfolio-oleydi.vercel.app)">Deploy</a>
         -
         -
         <a href="https://github.com/oleydi1234/Portfolio">Repo</a>
@@ -126,14 +126,14 @@
     </tr>
     <tr>
       <td>
-        <a href="https://somoscracks.vercel.app">
+        <a href="[https://somoscracks.vercel.app](https://somoscracks.vercel.app)">
           <img src="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png" width="500">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://somoscracks.vercel.app">Deploy</a>
+        <a href="[https://somoscracks.vercel.app](https://somoscracks.vercel.app)">Deploy</a>
         -
         -
         <a href="https://github.com/hectormarrufor/somoscracks">Repo</a>
@@ -148,14 +148,14 @@
     </tr>
     <tr>
       <td>
-        <a href="https://pokemon-front-theta.vercel.app">
+        <a href="[https://pokemon-front-theta.vercel.app](https://pokemon-front-theta.vercel.app)">
           <img src="https://portfolio-oleydi.vercel.app/static/media/pokemon-front.f1563637d62a28af817e.gif" width="500">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://pokemon-front-theta.vercel.app">Deploy</a>
+        <a href="[https://pokemon-front-theta.vercel.app](https://pokemon-front-theta.vercel.app)">Deploy</a>
         -
         -
         <a href="https://github.com/oleydi1234/PI-Pokemon">Repo</a>
