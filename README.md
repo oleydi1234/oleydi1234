@@ -105,7 +105,7 @@
     <tr>
       <td>
         <a href="portfolio-oleydi.vercel.app">
-          <img src="https://drive.google.com/file/d/1pu6tlnBi14IinWvoc1DrrayxEKDwZa_2/view?usp=sharing" width="500">
+          <img src="https://portfolio-oleydi.vercel.app/portfolio.png" width="500">
         </a>
       </td>
     </tr>
