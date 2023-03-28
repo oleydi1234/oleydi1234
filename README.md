@@ -5,6 +5,8 @@
 
 ### <div align="center">I'm Oleydi, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
 
+<p align="center">I am a passionate Full Stack Developer who is driven by the thrill of creating innovative and user-friendly web applications. With my strong knowledge of HTML, CSS, JavaScript, React, Vue, Node.js, Express, and various databases, I bring a unique blend of technical expertise and creative thinking to each project I work on.</p>
+
 
 - 🌱 I’m currently learning Angular and C#  
   
@@ -91,8 +93,92 @@
 <br/>  
 
 
+<h2 align="center">Projects</h2>
+<div align="center">
+  <h4>Here are some of my recent projects that demonstrate my skills as a Full Stack Developer:</h4>
+  <table width="500">
+    <tr>
+      <td>
+        <h3 align="center">Oleydi Peña Portfolio</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="portfolio-oleydi.vercel.app">
+          <img src="https://drive.google.com/file/d/1pu6tlnBi14IinWvoc1DrrayxEKDwZa_2/view?usp=sharing" width="500">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png">Deploy</a>
+        -
+        <a href="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png">Info</a>
+        -
+        <a href="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png">Repo</a>
+      </td>
+    </tr>
+  </table>
+  <table width="500">
+    <tr>
+      <td>
+        <h3 align="center">SOMOS CRACKS</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="somoscracks.vercel.app">
+          <img src="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png" width="500">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="somoscracks.vercel.app">Deploy</a>
+        -
+        -
+        <a href="https://github.com/hectormarrufor/somoscracks">Repo</a>
+      </td>
+    </tr>
+  </table>
+  <table width="500">
+    <tr>
+      <td>
+        <h3 align="center">Pokemons App</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="pokemon-front-theta.vercel.app">
+          <img src="https://portfolio-oleydi.vercel.app/static/media/pokemon-front.f1563637d62a28af817e.gif" width="500">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="pokemon-front-theta.vercel.app">Deploy</a>
+        -
+        -
+        <a href="https://github.com/oleydi1234/PI-Pokemon">Repo</a>
+      </td>
+    </tr>
+  </table>
+     </div>
+</div>
+</div>
+
 ## Github Stats  
-<div align="center"><img src="https://streak-stats.demolab.com/?user=oleydi1234&theme=dark" align="center" /></div>  
+
+<div align="center">
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=oleydi1234&show_icons=true&theme=dracula"/>
+  <br/>
+  <br/>
+  <img width="450"  align="center" src="https://streak-stats.demolab.com/?user=oleydi1234&theme=dracula"/>
+  <br/>
+  <br/>
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleydi1234&theme=dracula&layout=compact" />
+  
+</div>
 
 <br/>  
 
