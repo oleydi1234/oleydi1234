@@ -19,6 +19,11 @@
 
 <br/>  
 
+<div align="center">
+  <h4>My Portfolio: https://portfolio-oleydi.vercel.app</h4>
+  <h4>Linkedin: https://www.linkedin.com/in/oleydi-pena-marte</h4>
+</div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
